@@ -1,0 +1,4 @@
+.DS_Store
+slidnavbar.xcodeproj/*
+!slidnavbar.xcodeproj/project.pbxproj
+
